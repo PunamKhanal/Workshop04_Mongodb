@@ -230,11 +230,16 @@ For questions or issues:
 ## Submission Checklist
 
 Before submitting, ensure you have:
-- [ ] Completed all modules in the MongoDB Introduction Learning Path
-- [ ] Completed all assessments and quizzes
-- [ ] Obtained your completion certificate or badge
-- [ ] Saved a screenshot or copy of your certificate
-- [ ] Reviewed your learning path profile on MongoDB University
+- [x] Completed all modules in the MongoDB Introduction Learning Path
+- [x] Completed all assessments and quizzes
+- [x] Obtained your completion certificate or badge
+- [x] Saved a screenshot or copy of your certificate
+- [x] Reviewed your learning path profile on MongoDB University
+
+## Submission Proof
+- Status: Completed
+- Name: Punam Khanal
+- Certificate Verification URL: https://learn.mongodb.com/c/B6yyPs45SRGv71b2eQrqXA
 
 **Deliverable**: Submit your certification proof (screenshot/download) to your instructor
 
